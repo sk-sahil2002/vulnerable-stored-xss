@@ -34,7 +34,7 @@ This is a simple vulnerable Java web application designed for demonstrating **St
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/xss-lab-java.git
+git clone https://github.com/ak-sahil2002/vulnerable-stored-xss.git
 unzip the file
 cd xss-lab-java
 docker build -t xss-lab-java .
