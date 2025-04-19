@@ -35,4 +35,8 @@ This is a simple vulnerable Java web application designed for demonstrating **St
 
 ```bash
 git clone https://github.com/<your-username>/xss-lab-java.git
+unzip the file
 cd xss-lab-java
+docker build -t xss-lab-java .
+docker run -p 8080:8080 xss-lab-java
+
